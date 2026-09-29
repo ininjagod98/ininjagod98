@@ -15,7 +15,3 @@
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java" />
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=ininjagod98&show_icons=true&theme=default" />
